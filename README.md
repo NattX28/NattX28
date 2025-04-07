@@ -6,16 +6,19 @@ Web Developer
 
 I'm a 2nd-year Computer Science student who’s passionate about Fullstack Development and always curious about new technologies 🚀 I specialize in Software Engineering, and I enjoy thinking not just like a developer — but also like a product owner or a mini-CEO. I love solving real problems, building scalable systems, and driving projects forward from idea to execution. 
 
-Right now, I’m: 
-* 💼 Actively seeking internship or part-time opportunities in web development
-* ✨ Exploring new tech and building side projects
-* 🤝 Looking for collaborators to work on cool ideas
-* 🔧 Growing my skills in fullstack, software engineering & leadership
+### 🚀 Right now, I’m:
+- 💼 Actively seeking internship or part-time opportunities in web development  
+- ✨ Exploring new tech and building side projects  
+- 🤝 Looking for collaborators to work on cool ideas  
+- 🔧 Growing my skills in fullstack, software engineering & leadership  
 
-* 🌍  I'm based in BKK, TH
-* ✉️  You can contact me at [nattawut.chcs@gmail.com](mailto:nattawut.chcs@gmail.com)
-* 🤝  I'm open to collaborating on crypto projects, real-time project, AI-driven website, E-commerce
-* ⚡  I love mixing matcha, strawberries, and chocolate together
+---
+
+### 🧩 More about me:
+- 🌍 I'm based in **Bangkok, Thailand**  
+- ✉️ You can contact me at [nattawut.chcs@gmail.com](mailto:nattawut.chcs@gmail.com)  
+- 🤝 I'm open to collaborating on **crypto projects**, **real-time apps**, **AI-driven websites**, or **e-commerce platforms**  
+- ⚡ I love mixing **matcha**, **strawberries**, and **chocolate** together 🍓🍵🍫 
 
 <a href="https://www.github.com/NattX28" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NattX28?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
