@@ -1,9 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=25&fontAlignY=25&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
 <h1 align="center">Sawasdee krub 🙏 I'm Nattawut!</h1>
 
 ###
@@ -54,13 +48,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NattX28/NattX28/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NattX28/NattX28/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NattX28/NattX28/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
